@@ -24,7 +24,7 @@ Email: flavio.neubauer@gmail.com
 
 ## Experience
 
-### Perinity - Senior Software Engineer - 10/2018 - 08/2021
+### Perinity - Senior Software Engineer - 10/2018 - present
 Governance, risk, audit, and compliance enterprise application system delivered as SAAS.
 - worked on security issues to overcome pen-tests appointments of a legacy application, which unblocked ten new contracts
 - designed a modernization process of the product using the strangler pattern of the legacy monolith and DDD to separate domains and teams, creating four teams and services for each team
